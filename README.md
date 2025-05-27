@@ -25,6 +25,7 @@ Designed with an object-oriented approach and modular architecture, this project
  * For the first time , run `database.py` to create the required tables.
  * Run `main.py` file
 
-Developed By
+#### Developed By ####
 Pravas Mohanty 
+
 Bank Management System | Python + SQLite
